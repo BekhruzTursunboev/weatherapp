@@ -1,2 +1,2 @@
 # weatherapp
-Weather telegram bot
+Weather telegram bot that demonstrate the weather based on the city 
